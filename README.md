@@ -2,16 +2,8 @@
 
 
 
-# 👋 ¡Hola! Soy **Alberto**  
-### 💻 Desarrollador Full-Stack Junior (MERN / PERN) | React Native | Flask | Python  
+#  ¡Hola! Soy **Alberto**  
 
----
-
-### 🧠 Sobre mí  
-Soy un **Desarrollador Full-Stack** con experiencia práctica en la creación de soluciones digitales completas, tanto **frontend como backend**.  
-He trabajado en proyectos reales para empresas de distintos sectores, desarrollando desde **bots inteligentes y sistemas de automatización**, hasta **aplicaciones móviles multiplataforma**.  
-
-Me definen la **curiosidad tecnológica**, la **orientación a la mejora continua** y la **capacidad de adaptación**. Busco formar parte de un equipo donde seguir creciendo y aportar valor con una mentalidad ágil y resolutiva.  
 
 ---
 
@@ -76,13 +68,13 @@ Me definen la **curiosidad tecnológica**, la **orientación a la mejora continu
 📅 Nov. 2024 – Mar. 2025  
 
 🎓 **Programa Intensivo en IA Aplicada a la Productividad – Ironhack (Online)**  
-📅 En curso (Finalización: Jun. 2026)  
+📅 En curso (Finalización: Jun. 2027)  
 
-🎓 **Grado Superior DAM – ILERNA FP (Online)**  
-📅 Ene. 2025 – Actualidad  
+🎓 **Grado Superior DAM – IES Dr. Lluís Simarro**  
+📅 Sept. 2026 – Actualidad  
 
-🎓 **Grado Superior ASIR – IES María Enríquez (Gandía)**  
-📅 Sep. 2025 – Actualidad  
+🎓 **Grado Superior DAW – IES Serpis**  
+📅 Sept. 2020 – Junio 2023
 
 ---
 
